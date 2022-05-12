@@ -1,2 +1,4 @@
 # wordle
 tttttttttttttttttttt
+
+aaaaaaaaaaaaaaaaaaaaaaaaaaa
